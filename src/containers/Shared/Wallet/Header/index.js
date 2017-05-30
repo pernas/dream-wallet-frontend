@@ -2,7 +2,7 @@ import React from 'react'
 import {connect} from 'react-redux'
 import {bindActionCreators} from 'redux'
 
-import Header from 'components/Shared/Header'
+import Header from 'components/Shared/Wallet/Header'
 import * as uiActions from 'data/UI/actions.js'
 
 class HeaderContainer extends React.Component {

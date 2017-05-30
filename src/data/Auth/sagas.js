@@ -37,18 +37,11 @@ const pollingSaga = function * (session) {
   return false
 }
 
-console.log(api)
-
 const fetchWalletSaga = function * (guid, sharedKey, session, password) {
   try {
-    console.log('0')
     let wallet = yield call(api.downloadWallet, guid, sharedKey, session, password)
-    console.log('1')
     yield put(walletActions.loadWallet(wallet))
-    console.log('2')
-
     yield put(walletActions.requestWalletData(getWalletContext(wallet).toJS()))
-    console.log('3')
     yield put(actions.loginSuccess())
   } catch (error) {
     if (prop('authorization_required', error)) {

@@ -1,5 +1,5 @@
 import React from 'react'
-import MenuTop from 'components/Shared/MenuTop'
+import MenuTop from 'components/Shared/Wallet/MenuTop'
 
 class MenuTopContainer extends React.Component {
   render () {

@@ -2,9 +2,9 @@ import React from 'react'
 import { Route } from 'react-router-dom'
 import './style.scss'
 
-import HeaderContainer from 'containers/Shared/Header'
-import MenuLeftContainer from 'containers/Shared/MenuLeft'
-import MenuTopContainer from 'containers/Shared/MenuTop'
+import HeaderContainer from 'containers/Shared/Wallet/Header'
+import MenuLeftContainer from 'containers/Shared/Wallet/MenuLeft'
+import MenuTopContainer from 'containers/Shared/Wallet/MenuTop'
 
 const WalletLayout = ({component: Component, ...rest}) => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import MenuLeft from 'components/Shared/MenuLeft'
+import MenuLeft from 'components/Shared/Wallet/MenuLeft'
 
 class MenuLeftContainer extends React.Component {
   render () {

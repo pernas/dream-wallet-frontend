@@ -1,4 +1,4 @@
-import { LOGIN_START, LOGIN_SUCCESS, LOGIN_ERROR, SAVE_SESSION } from '../actionTypes'
+import { LOGIN_START, LOGIN_SUCCESS, LOGIN_ERROR, SAVE_SESSION } from 'data/actionTypes'
 
 export const loginStart = credentials => ({ type: LOGIN_START, payload: credentials })
 export const loginSuccess = () => ({ type: LOGIN_SUCCESS })

@@ -1,8 +1,10 @@
 import React from 'react'
 import { BrowserRouter as Router, Switch } from 'react-router-dom'
 
-import WalletLayout from 'components/Layouts/WalletLayout'
+import LandingLayout from 'components/Layouts/LandingLayout'
 import PublicLayout from 'components/Layouts/PublicLayout'
+import WalletLayout from 'components/Layouts/WalletLayout'
+
 import LandingContainer from 'containers/Landing'
 import LoginContainer from 'containers/Login'
 import RegisterContainer from 'containers/Register'
@@ -21,15 +23,15 @@ class App extends React.Component {
       <Provider store={this.props.store}>
         <Router>
           <Switch>
-            <WalletLayout exact path='/' component={HomeContainer} />
+            <LandingLayout exact path='/' component={LandingContainer} />
+            <PublicLayout path='/login' component={LoginContainer} />
+            <PublicLayout path='/register' component={RegisterContainer} />
+            <WalletLayout path='/wallet' component={HomeContainer} />
             <WalletLayout path='/transactions' component={TransactionsContainer} />
             <WalletLayout path='/buy-sell' component={BuyContainer} />
             <WalletLayout path='/security-center' component={SecurityContainer} />
             <WalletLayout path='/settings' component={SettingsContainer} />
             <WalletLayout path='/faq' component={FaqContainer} />
-            <PublicLayout path='/landing' component={LandingContainer} />
-            <PublicLayout path='/login' component={LoginContainer} />
-            <PublicLayout path='/register' component={RegisterContainer} />
           </Switch>
         </Router>
       </Provider>

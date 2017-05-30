@@ -1,4 +1,4 @@
-import { LOGIN_START, LOGIN_SUCCESS, LOGIN_ERROR, SAVE_SESSION } from '../actionTypes'
+import { LOGIN_START, LOGIN_SUCCESS, LOGIN_ERROR, SAVE_SESSION } from 'data/actionTypes'
 import { merge } from 'ramda'
 
 let assign = (state, next) => Object.assign({}, state, next)
