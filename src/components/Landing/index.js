@@ -1,14 +1,19 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
+
+import Main from './Main'
+import NewToBitcoin from './NewToBitcoin'
+import Reviews from './Reviews'
+import WhyUseBlockchain from './WhyUseBlockchain'
 import './style.scss'
 
 const Landing = () => {
   return (
     <section className='landing'>
-      <span>Landing page</span>
-      <Link to='/login'>Login</Link>
-      <Link to='/register'>Create Wallet</Link>
+      <Main />
+      <NewToBitcoin />
+      <Reviews />
+      <WhyUseBlockchain />
     </section>
   )
 }

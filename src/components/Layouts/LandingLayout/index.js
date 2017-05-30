@@ -9,13 +9,13 @@ const LandingLayout = ({component: Component, ...rest}) => {
   return (
     <Route {...rest} render={matchProps => (
       <div className='landing'>
-        <div className='landing-header'>
+        <div className='header'>
           <HeaderContainer />
         </div>
-        <div className='landing-content'>
+        <div className='content'>
           <Component {...matchProps} />
         </div>
-        <div className='landing-footer'>
+        <div className='footer'>
           <Footer />
         </div>
       </div>

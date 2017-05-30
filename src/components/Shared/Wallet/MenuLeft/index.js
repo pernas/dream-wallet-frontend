@@ -8,7 +8,7 @@ import StepBar from './StepBar'
 
 const MenuLeft = () => {
   return (
-    <div className='menu-left'>
+    <nav className='menu-left'>
       <ul>
         <MenuLeftLink route='/' icon='icon-home' title='Home' />
         <MenuLeftLink route='/transactions' icon='icon-tx' title='Transactions' />
@@ -19,7 +19,7 @@ const MenuLeft = () => {
       </ul>
       {/*<Adverts />*/}
       {/*<StepBar />*/}
-    </div>
+    </nav>
   )
 }
 

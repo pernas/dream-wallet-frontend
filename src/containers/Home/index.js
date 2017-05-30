@@ -3,7 +3,6 @@ import {connect} from 'react-redux'
 import {bindActionCreators} from 'redux'
 
 import Home from 'components/Home'
-
 import * as activityActions from 'data/Activity/actions.js'
 
 class HomeContainer extends React.Component {

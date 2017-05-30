@@ -98,3 +98,7 @@
   -webkit-align-content: $args;
           align-content: $args;
 }
+@mixin justify-content($args...) {
+  -webkit-justify-content: $args;
+          justify-content: $args;
+}

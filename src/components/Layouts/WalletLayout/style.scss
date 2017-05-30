@@ -6,32 +6,32 @@
   height: 100%;
   overflow: hidden;
 
-  & .wallet-header {
+  & .header {
     @include flex(0 0 60px);
   }
 
-  & .wallet-content {
+  & .content {
     @include display-flex();
     @include flex-direction(row);
     @include align-content(stretch);
     height: 100%;
 
-    & .wallet-left {
+    & .left {
       width: 270px;
     }
 
-    & .wallet-right {
+    & .right {
       @include display-flex();
       @include flex-direction(column);
       @include align-content(stretch);
       height: 100%;
       width: 100%;
 
-      & .wallet-top {
+      & .top {
         @include flex(0 0 115px);
       }
 
-      & .wallet-page {
+      & .page {
         height: 100%;
       }
     }

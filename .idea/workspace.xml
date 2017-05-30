@@ -2,68 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae62b17c-24d7-470b-8e71-d02c194ddc94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/Main/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/Main/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/NewToBitcoin/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/NewToBitcoin/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Landing/Footer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Landing/Footer/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Landing/Header/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Landing/Header/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Public/Footer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Public/Footer/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Public/Header/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Public/Header/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/Shared/Landing/Header/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/Shared/Wallet/Header/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/Header/Ticker/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/Ticker/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/Header/Ticker/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/Ticker/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/Header/WhatsNew/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/WhatsNew/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/Header/WhatsNew/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/WhatsNew/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/Header/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/Header/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuLeft/Adverts/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/Adverts/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuLeft/Adverts/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/Adverts/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuLeft/MenuLeftLink/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/MenuLeftLink/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuLeft/MenuLeftLink/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/MenuLeftLink/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuLeft/StepBar/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/StepBar/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuLeft/StepBar/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/StepBar/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuLeft/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuLeft/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/Balance/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/Balance/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/Balance/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/Balance/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/ClipboardNextAddress/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/ClipboardNextAddress/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/ClipboardNextAddress/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/ClipboardNextAddress/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/RequestBitcoin/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/RequestBitcoin/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/RequestBitcoin/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/RequestBitcoin/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/SendBitcoin/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/SendBitcoin/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/SendBitcoin/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/SendBitcoin/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Shared/MenuTop/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/containers/Shared/Header/index.js" afterPath="$PROJECT_DIR$/src/containers/Shared/Public/Header/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/containers/Shared/MenuLeft/index.js" afterPath="$PROJECT_DIR$/src/containers/Shared/Wallet/MenuLeft/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/containers/Shared/MenuTop/index.js" afterPath="$PROJECT_DIR$/src/containers/Shared/Wallet/MenuTop/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/Reviews/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/Reviews/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/WhyUseBlockchain/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Landing/WhyUseBlockchain/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Login/LoginForm/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Login/LoginForm/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Login/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Login/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Form/Button/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Form/Button/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Form/PasswordBox/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Form/PasswordBox/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Form/TextBox/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Shared/Form/TextBox/style.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/sass/utilities/_mixins.scss" afterPath="$PROJECT_DIR$/src/assets/sass/utilities/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Landing/Main/index.js" afterPath="$PROJECT_DIR$/src/components/Landing/Main/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Landing/Main/style.scss" afterPath="$PROJECT_DIR$/src/components/Landing/Main/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Landing/NewToBitcoin/index.js" afterPath="$PROJECT_DIR$/src/components/Landing/NewToBitcoin/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Landing/NewToBitcoin/style.scss" afterPath="$PROJECT_DIR$/src/components/Landing/NewToBitcoin/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Landing/index.js" afterPath="$PROJECT_DIR$/src/components/Landing/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/style.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Landing/index.js" afterPath="$PROJECT_DIR$/src/containers/Landing/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/app.js" afterPath="$PROJECT_DIR$/src/containers/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Activity/actions.js" afterPath="$PROJECT_DIR$/src/data/Activity/actions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Activity/reducers.js" afterPath="$PROJECT_DIR$/src/data/Activity/reducers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Activity/sagas.js" afterPath="$PROJECT_DIR$/src/data/Activity/sagas.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Activity/selectors.js" afterPath="$PROJECT_DIR$/src/data/Activity/selectors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/Header/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/index.js" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/style.scss" afterPath="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Home/index.js" afterPath="$PROJECT_DIR$/src/containers/Home/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Login/index.js" afterPath="$PROJECT_DIR$/src/containers/Login/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Auth/actions.js" afterPath="$PROJECT_DIR$/src/data/Auth/actions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Auth/reducers.js" afterPath="$PROJECT_DIR$/src/data/Auth/reducers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Auth/sagas.js" afterPath="$PROJECT_DIR$/src/data/Auth/sagas.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/UI/actions.js" afterPath="$PROJECT_DIR$/src/data/UI/actions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/UI/reducers.js" afterPath="$PROJECT_DIR$/src/data/UI/reducers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/UI/selectors.js" afterPath="$PROJECT_DIR$/src/data/UI/selectors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.scss" afterPath="$PROJECT_DIR$/src/index.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -80,13 +51,38 @@
     <favorites_list name="dream-wallet-frontend" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/containers/Login/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="626">
+              <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Login/LoginForm/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Sass File" />
+        <option value="JavaScript File" />
         <option value="SCSS File" />
       </list>
     </option>
@@ -109,36 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data/actionTypes.js" />
-        <option value="$PROJECT_DIR$/src/containers/Shared/Header/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Home/index.js" />
-        <option value="$PROJECT_DIR$/src/data/rootSaga.js" />
-        <option value="$PROJECT_DIR$/src/sagas/index.js" />
-        <option value="$PROJECT_DIR$/src/store/configureStore.dev.js" />
-        <option value="$PROJECT_DIR$/src/reducers/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Home/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Home/ActivityList/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Home/ActivityList/style.scss" />
-        <option value="$PROJECT_DIR$/src/components/Home/ActivityList/ActivityListItem/style.scss" />
-        <option value="$PROJECT_DIR$/src/components/Home/ActivityList/ActivityListItem/index.js" />
-        <option value="$PROJECT_DIR$/src/index.scss" />
-        <option value="$PROJECT_DIR$/src/components/Landing/style.scss" />
-        <option value="$PROJECT_DIR$/src/containers/Landing/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Landing/Header/style.scss" />
-        <option value="$PROJECT_DIR$/src/components/Layouts/LandingLayout/Footer/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Layouts/LandingLayout/Header/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Layouts/LandingLayout/Footer/style.scss" />
-        <option value="$PROJECT_DIR$/src/components/Landing/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Layouts/WalletLayout/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Layouts/LandingLayout/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Layouts/LandingLayout/style.scss" />
-        <option value="$PROJECT_DIR$/src/components/Layouts/PublicLayout/style.scss" />
-        <option value="$PROJECT_DIR$/src/components/Layouts/PublicLayout/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Shared/Wallet/Header/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Shared/Public/Footer/style.scss" />
-        <option value="$PROJECT_DIR$/src/components/Shared/Public/Footer/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Shared/Landing/Footer/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Shared/Landing/Footer/style.scss" />
         <option value="$PROJECT_DIR$/src/components/Shared/Public/Header/index.js" />
         <option value="$PROJECT_DIR$/src/components/Shared/Public/Header/style.scss" />
         <option value="$PROJECT_DIR$/src/components/Shared/Landing/Header/index.js" />
@@ -153,13 +119,43 @@
         <option value="$PROJECT_DIR$/src/data/rootReducer.js" />
         <option value="$PROJECT_DIR$/src/data/UI/reducers.js" />
         <option value="$PROJECT_DIR$/src/data/UI/selectors.js" />
-        <option value="$PROJECT_DIR$/src/data/Auth/actions.js" />
         <option value="$PROJECT_DIR$/src/data/Auth/reducers.js" />
         <option value="$PROJECT_DIR$/src/data/Auth/sagas.js" />
         <option value="$PROJECT_DIR$/src/data/Activity/actions.js" />
         <option value="$PROJECT_DIR$/src/data/Activity/reducers.js" />
         <option value="$PROJECT_DIR$/src/data/Activity/sagas.js" />
         <option value="$PROJECT_DIR$/src/data/Activity/selectors.js" />
+        <option value="$PROJECT_DIR$/src/components/Landing/NewToBitcoin/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Landing/Main/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Landing/NewToBitcoin/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Landing/Reviews/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Landing/Reviews/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Landing/WhyUseBlockchain/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Landing/WhyUseBlockchain/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Landing/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Landing/Main/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Shared/Form/TextBox/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Shared/Form/Button/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Shared/Form/Button/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/Home/index.js" />
+        <option value="$PROJECT_DIR$/src/data/Auth/actions.js" />
+        <option value="$PROJECT_DIR$/src/containers/Login/LoginForm/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Login/index.js" />
+        <option value="$PROJECT_DIR$/src/assets/sass/utilities/_mixins.scss" />
+        <option value="$PROJECT_DIR$/src/components/Login/LoginForm/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Shared/Form/TextBox/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Shared/Form/PasswordBox/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Layouts/PublicLayout/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Layouts/PublicLayout/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Layouts/WalletLayout/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Layouts/WalletLayout/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Layouts/LandingLayout/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Shared/Wallet/Header/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Shared/Wallet/Header/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Login/LoginForm/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/Login/index.js" />
       </list>
     </option>
   </component>
@@ -256,7 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="containers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -274,11 +270,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="containers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Auth" />
+              <option name="myItemId" value="Login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -296,11 +292,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="containers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Activity" />
+              <option name="myItemId" value="Home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,6 +315,198 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Button" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoginForm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utilities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dream-wallet-frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -353,11 +541,11 @@
       <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Landing" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\data\UI" />
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\data\UI\Landing" />
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\containers\Shared\Public" />
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Layouts\LandingLayout" />
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Shared\Public\Footer" />
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Shared\Form" />
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Login\LoginForm" />
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Login" />
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Landing\WhyUseBlockchain" />
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Landing\Reviews" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -458,7 +646,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60705000" />
+    <option name="totallyTimeSpent" value="68359000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,8 +659,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19915701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20337197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -480,7 +669,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.35536295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="-9" y="-1080" width="1920" height="1040" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.35536295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="-9" y="-1080" width="1920" height="1040" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -559,316 +748,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/services/walletApi.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#58#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Faq/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Landing/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Landing/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Landing/Header/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Wallet/Header/Ticker/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Security/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Landing/Footer/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Landing/Footer/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Landing/Header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Landing/NewToBitcoin/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/LandingLayout/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/PublicLayout/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Landing/Footer/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Public/Footer/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Landing/Footer/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Public/Footer/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Public/Header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Public/Header/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Landing/Header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Landing/Header/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Shared/Wallet/Header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/WalletLayout/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/LandingLayout/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/PublicLayout/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Shared/Landing/Header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Shared/Wallet/Header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Shared/Wallet/MenuLeft/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Shared/Wallet/MenuTop/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Shared/Public/Header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/UI/Wallet/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data/UI/Landing/actions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -890,24 +769,8 @@
         <state relative-caret-position="221">
           <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Landing/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Landing/Main/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,20 +782,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/Auth/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="75" lean-forward="false" selection-start-line="0" selection-start-column="75" selection-end-line="0" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data/Auth/reducers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
           <folding>
-            <element signature="e#0#88#0" expanded="true" />
+            <element signature="e#0#88#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -941,24 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/Auth/sagas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/Activity/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="92" lean-forward="false" selection-start-line="0" selection-start-column="92" selection-end-line="0" selection-end-column="92" />
           <folding />
         </state>
       </provider>
@@ -992,6 +829,356 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Landing/NewToBitcoin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Landing/Main/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Landing/NewToBitcoin/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Landing/Reviews/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Landing/WhyUseBlockchain/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Landing/Reviews/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Landing/WhyUseBlockchain/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Landing/Main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Landing/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/Auth/sagas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/Auth/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/Activity/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="92" lean-forward="false" selection-start-line="0" selection-start-column="92" selection-end-line="0" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Login/LoginForm/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Landing/Footer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Form/Button/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Home/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Form/TextBox/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/utilities/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/utilities/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Login/LoginForm/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Form/PasswordBox/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Form/TextBox/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/PublicLayout/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Form/PasswordBox/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/WalletLayout/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/WalletLayout/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/LandingLayout/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Public/Footer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Public/Footer/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/LandingLayout/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Wallet/Header/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Wallet/Header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="62" lean-forward="false" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Wallet/MenuTop/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/PublicLayout/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Shared/Form/Button/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Login/LoginForm/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

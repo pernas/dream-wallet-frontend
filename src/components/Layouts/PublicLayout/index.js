@@ -9,13 +9,13 @@ const PublicLayout = ({component: Component, ...rest}) => {
   return (
     <Route {...rest} render={matchProps => (
       <div className='public'>
-        <div className='public-header'>
+        <div className='header'>
           <HeaderContainer />
         </div>
-        <div className='public-content'>
+        <div className='content'>
           <Component {...matchProps} />
         </div>
-        <div className='public-footer'>
+        <div className='footer'>
           <Footer />
         </div>
       </div>
