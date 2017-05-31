@@ -1,4 +1,9 @@
 
 header.public {
+  padding: 30px;
 
+  & img {
+    height: 20px;
+    vertical-align: middle;
+  }
 }

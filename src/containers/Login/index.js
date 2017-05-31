@@ -10,21 +10,22 @@ class LoginContainer extends React.Component {
     super()
     this.state = {
       credentials: {
-        username: '',
+        guid: '',
         password: ''
       }
     }
 
     this.onChange = this.onChange.bind(this)
-    this.onSubmit = this.onSubmit.bind(this)
+    this.onClick = this.onClick.bind(this)
   }
 
   onChange (event) {
     const credentials = this.state.credentials
+    console.log(credentials)
 
     switch (event.target.name) {
-      case 'username':
-        credentials.username = event.target.value
+      case 'guid':
+        credentials.guid = event.target.value
         break
       case 'password':
         credentials.password = event.target.value
@@ -34,13 +35,14 @@ class LoginContainer extends React.Component {
     this.setState({ credentials: credentials })
   }
 
-  onSubmit () {
+  onClick () {
+    console.log(this.state.credentials)
     this.props.actions.loginStart(this.state.credentials)
   }
 
   render () {
     return (
-      <Login onChange={this.onChange} onSubmit={this.onSubmit} />
+      <Login onChange={this.onChange} onClick={this.onClick} />
     )
   }
 }

@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { NavLink } from 'react-router-dom'
 
 import logo from 'img/blockchain-vector.svg'
 import './style.scss'
@@ -19,9 +20,9 @@ const Header = (props) => {
               <span className='icon-bar' />
               <span className='icon-bar' />
             </button>
-            <a className='navbar-brand' href='#'>
+            <NavLink to='/' className='navbar-brand'>
               <img src={logo} />
-            </a>
+            </NavLink>
           </div>
           <ul className='nav navbar-nav navbar-right'>
             <li className={(props.exploreMenuDisplayed ? 'dropdown open' : 'dropdown')}>

@@ -1,9 +1,10 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
+
 import './style.scss'
 
 import HeaderContainer from 'containers/Shared/Landing/Header'
-import Footer from 'components/Shared/Landing/Footer'
+import FooterContainer from 'containers/Shared/Landing/Footer'
 
 const LandingLayout = ({component: Component, ...rest}) => {
   return (
@@ -16,7 +17,7 @@ const LandingLayout = ({component: Component, ...rest}) => {
           <Component {...matchProps} />
         </div>
         <div className='footer'>
-          <Footer />
+          <FooterContainer />
         </div>
       </div>
     )} />

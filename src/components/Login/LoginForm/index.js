@@ -10,10 +10,10 @@ const LoginForm = (props) => {
   let mandatory = true
 
   return (
-    <form className='login-form'>
+    <div className='login-form'>
       <h3>Welcome Back!</h3>
       <TextBox
-        name='username'
+        name='guid'
         label='Wallet ID'
         onChange={props.onChange}
         mandatory={mandatory} />
@@ -25,14 +25,14 @@ const LoginForm = (props) => {
       <Button
         name='submit'
         label='Log in'
-        onClick={props.onSubmit} />
-    </form>
+        onClick={props.onClick} />
+    </div>
   )
 }
 
 LoginForm.propTypes = {
   onChange: PropTypes.func.isRequired,
-  onSubmit: PropTypes.func.isRequired
+  onClick: PropTypes.func.isRequired
 }
 
 export default LoginForm

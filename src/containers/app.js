@@ -26,7 +26,7 @@ class App extends React.Component {
             <LandingLayout exact path='/' component={LandingContainer} />
             <PublicLayout path='/login' component={LoginContainer} />
             <PublicLayout path='/register' component={RegisterContainer} />
-            <WalletLayout path='/wallet' component={HomeContainer} />
+            <WalletLayout path='/home' component={HomeContainer} />
             <WalletLayout path='/transactions' component={TransactionsContainer} />
             <WalletLayout path='/buy-sell' component={BuyContainer} />
             <WalletLayout path='/security-center' component={SecurityContainer} />

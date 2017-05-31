@@ -2,21 +2,21 @@ import React from 'react'
 import { Route } from 'react-router-dom'
 import './style.scss'
 
-import HeaderContainer from 'containers/Shared/Public/Header'
-import Footer from 'components/Shared/Public/Footer'
+import Header from 'components/Shared/Public/Header'
+import FooterContainer from 'containers/Shared/Public/Footer'
 
 const PublicLayout = ({component: Component, ...rest}) => {
   return (
     <Route {...rest} render={matchProps => (
       <div className='public'>
         <div className='header'>
-          <HeaderContainer />
+          <Header />
         </div>
         <div className='content'>
           <Component {...matchProps} />
         </div>
         <div className='footer'>
-          <Footer />
+          <FooterContainer />
         </div>
       </div>
     )} />

@@ -7,14 +7,14 @@ import './style.scss'
 const Login = (props) => {
   return (
     <section className='login'>
-      <LoginForm onChange={props.onChange} onSubmit={props.onSubmit} />
+      <LoginForm onChange={props.onChange} onClick={props.onClick} />
     </section>
   )
 }
 
 Login.propTypes = {
   onChange: PropTypes.func.isRequired,
-  onSubmit: PropTypes.func.isRequired
+  onClick: PropTypes.func.isRequired
 }
 
 export default Login
