@@ -56,7 +56,15 @@ module.exports = {
         test: /\.scss$/,
         use: ExtractTextPlugin.extract({
           use: [
-            'css-loader',
+            {
+              loader: 'css-loader' // ,
+              // options: {
+              //   modules: true,
+              //   localIdentName: '[name]__[local]___[hash:base64:5]',
+              //   importLoaders: 2,
+              //   camelCase: true
+              // }
+            },
             'sass-loader',
             {
               loader: 'sass-resources-loader',
@@ -70,14 +78,6 @@ module.exports = {
             }
           ],
           fallback: 'style-loader'
-        })
-      },
-      {
-        test: /\.css$/,
-        use: ExtractTextPlugin.extract({
-          use: {
-            loader: 'css-loader'
-          }
         })
       },
       {

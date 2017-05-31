@@ -1,9 +1,9 @@
 import React from 'react'
 import { BrowserRouter as Router, Switch } from 'react-router-dom'
 
-import LandingLayout from 'components/Layouts/LandingLayout'
-import PublicLayout from 'components/Layouts/PublicLayout'
-import WalletLayout from 'components/Layouts/WalletLayout'
+import LandingLayout from 'components/Layouts/Landing'
+import PublicLayout from 'components/Layouts/Public'
+import WalletLayout from 'components/Layouts/Wallet'
 
 import LandingContainer from './Landing'
 import LoginContainer from './Login'
