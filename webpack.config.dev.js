@@ -24,7 +24,7 @@ module.exports = {
       'sass': `${__dirname}/src/assets/sass`,
       'img': `${__dirname}/src/assets/img`,
       'components': `${__dirname}/src/components`,
-      'containers': `${__dirname}/src/containers`,
+      'scenes': `${__dirname}/src/scenes`,
       'data': `${__dirname}/src/data`,
       'config': `${__dirname}/src/config`,
       'services': `${__dirname}/src/services`

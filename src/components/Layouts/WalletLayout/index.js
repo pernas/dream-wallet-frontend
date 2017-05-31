@@ -2,24 +2,24 @@ import React from 'react'
 import { Route } from 'react-router-dom'
 import './style.scss'
 
-import HeaderContainer from 'containers/Shared/Wallet/Header'
-import MenuLeftContainer from 'containers/Shared/Wallet/MenuLeft'
-import MenuTopContainer from 'containers/Shared/Wallet/MenuTop'
+import Header from './Header'
+import MenuLeft from './MenuLeft'
+import MenuTop from './MenuTop'
 
 const WalletLayout = ({component: Component, ...rest}) => {
   return (
     <Route {...rest} render={matchProps => (
       <div className='wallet'>
         <div className='header'>
-          <HeaderContainer />
+          <Header />
         </div>
         <div className='content'>
           <div className='left'>
-            <MenuLeftContainer />
+            <MenuLeft />
           </div>
           <div className='right'>
             <div className='top'>
-              <MenuTopContainer />
+              <MenuTop />
             </div>
             <div className='page'>
               <Component {...matchProps} />
