@@ -1,0 +1,14 @@
+.setting-row {
+  padding: 18px 0px;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+
+  .description {
+    flex: 1;
+  }
+
+  .setting {
+    flex: 1;
+    text-align: right;
+  }
+}
