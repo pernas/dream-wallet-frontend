@@ -6,6 +6,7 @@ import * as walletActions from 'dream-wallet/lib/actions'
 import { getWalletContext } from 'dream-wallet/lib/selectors'
 
 import * as actions from './actions.js'
+import * as authActions from '../Log/actions.js'
 import { getSession } from './selectors'
 import { api } from 'services/walletApi.js'
 
@@ -34,7 +35,7 @@ const fetchWalletSaga = function * (guid, sharedKey, session, password) {
         yield call(fetchWalletSaga, guid, undefined, session, password)
       }
     } else {
-      yield put(actions.recordLog({ type: 'ERROR', message: 'Could not establish the session.' }))
+      yield put(authActions.recordLog({ type: 'ERROR', message: 'Could not establish the session.' }))
     }
   }
 }
@@ -51,7 +52,7 @@ const login = function * (action) {
       session = yield call(api.establishSession, session)  // establishSession logic should not receive existent session as parameter
       yield put(actions.saveSession(assoc(credentials.guid, session, {})))
     } catch (error) {
-      yield put(actions.recordLog({ type: 'ERROR', message: 'Could not establish the session.' }))
+      yield put(authActions.recordLog({ type: 'ERROR', message: 'Could not establish the session.' }))
     }
     yield call(fetchWalletSaga, credentials.guid, undefined, session, credentials.password)
   }

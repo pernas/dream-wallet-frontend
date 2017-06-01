@@ -23,6 +23,7 @@ module.exports = {
       'bower': `${__dirname}/../bower_components`,
       'sass': `${__dirname}/src/assets/sass`,
       'img': `${__dirname}/src/assets/img`,
+      'fonts': `${__dirname}/src/assets/fonts`,
       'components': `${__dirname}/src/components`,
       'scenes': `${__dirname}/src/scenes`,
       'data': `${__dirname}/src/data`,
@@ -65,14 +66,26 @@ module.exports = {
                 camelCase: true
               }
             },
-            'sass-loader',
+            // {
+            //   loader: 'resolve-url-loader',
+            //   options: {
+            //     debug: true,
+            //     sourceMap: true,
+            //     root: 'src/assets/fonts'
+            //   }
+            // },
+            {
+              loader: 'sass-loader',
+              options: {
+                sourceMap: true
+              }
+            },
             {
               loader: 'sass-resources-loader',
               options: {
                 resources: [
                   'node_modules/blockchain-css/sass/utilities/_colors.scss',
-                  'src/assets/sass/utilities/_mixins.scss',
-                  'src/assets/sass/utilities/_colors.scss'
+                  'src/assets/sass/resources/**/*.scss'
                 ]
               }
             }
@@ -81,7 +94,7 @@ module.exports = {
         })
       },
       {
-        test: /\.(eot|svg|ttf|woff|woff2)$/,
+        test: /\.(eot|ttf|otf|woff|woff2)$/,
         use: {
           loader: 'file-loader',
           options: {
@@ -90,7 +103,7 @@ module.exports = {
         }
       },
       {
-        test: /\.(png|jpg|gif)$/,
+        test: /\.(png|jpg|gif|svg)$/,
         use: {
           loader: 'file-loader',
           options: {

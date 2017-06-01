@@ -1,5 +1,6 @@
 
 header {
+  @include container-centered();
   padding: 30px;
 
   & img {

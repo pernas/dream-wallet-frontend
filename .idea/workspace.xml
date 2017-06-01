@@ -2,55 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae62b17c-24d7-470b-8e71-d02c194ddc94" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/Footer/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Landing/Footer/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/Footer/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Landing/Footer/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/Footer/template.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Landing/Footer/template.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/Header/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Landing/Header/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/Header/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Landing/Header/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/Header/template.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Landing/Header/template.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Landing/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/LandingLayout/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Landing/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/Footer/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Public/Footer/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/Footer/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Public/Footer/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/Footer/template.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Public/Footer/template.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/Header/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Public/Header/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/Header/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Public/Header/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Public/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/PublicLayout/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Public/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/Header/Ticker/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/Header/Ticker/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/Header/Ticker/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/Header/Ticker/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/Header/WhatsNew/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/Header/WhatsNew/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/Header/WhatsNew/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/Header/WhatsNew/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/Header/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/Header/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/Header/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/Header/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/Header/template.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/Header/template.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/Adverts/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/Adverts/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/Adverts/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/Adverts/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/MenuLeftLink/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/MenuLeftLink/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/MenuLeftLink/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/MenuLeftLink/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/StepBar/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/StepBar/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/StepBar/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/StepBar/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/template.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/template.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/Balance/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/Balance/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/Balance/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/Balance/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/ClipboardNextAddress/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/ClipboardNextAddress/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/ClipboardNextAddress/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/ClipboardNextAddress/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/RequestBitcoin/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/RequestBitcoin/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/RequestBitcoin/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/RequestBitcoin/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/SendBitcoin/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/SendBitcoin/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/SendBitcoin/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/SendBitcoin/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/template.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuTop/template.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/components/Layouts/WalletLayout/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-SemiBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-SemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-UltraBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/gillsans/GillSans-UltraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/icomoon/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/icomoon/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/icomoon/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Black.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Bold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-ExtraBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-ExtraBold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-ExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-ExtraLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-ExtraLight.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-ExtraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Light.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Medium.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-SemiBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-SemiBold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-SemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Thin.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/montserrat/Montserrat-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/themify/themify.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/themify/themify.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/themify/themify.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/sass/resources/_flex.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/sass/resources/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/sass/utilities/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/sass/utilities/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/middleware/authMiddleware.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scenes/Login/LoginForm/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scenes/Login/LoginForm/style.scss" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/sass/utilities/_colors.scss" afterPath="$PROJECT_DIR$/src/assets/sass/resources/_colors.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/sass/utilities/_global.scss" afterPath="$PROJECT_DIR$/src/assets/sass/utilities/_elements.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/sass/utilities/_mixins.scss" afterPath="$PROJECT_DIR$/src/assets/sass/resources/_mixins.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scenes/Login/LoginForm/style.scss" afterPath="$PROJECT_DIR$/src/scenes/Login/LoginForm/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scenes/Login/index.js" afterPath="$PROJECT_DIR$/src/scenes/Login/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Form/PasswordBox/style.scss" afterPath="$PROJECT_DIR$/src/components/Form/PasswordBox/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Form/TextBox/style.scss" afterPath="$PROJECT_DIR$/src/components/Form/TextBox/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Layouts/Public/Header/style.scss" afterPath="$PROJECT_DIR$/src/components/Layouts/Public/Header/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/MenuLeftLink/index.js" afterPath="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/MenuLeftLink/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Auth/reducers.js" afterPath="$PROJECT_DIR$/src/data/Auth/reducers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Auth/sagas.js" afterPath="$PROJECT_DIR$/src/data/Auth/sagas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.scss" afterPath="$PROJECT_DIR$/src/index.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scenes/Login/style.scss" afterPath="$PROJECT_DIR$/src/scenes/Login/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scenes/app.js" afterPath="$PROJECT_DIR$/src/scenes/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scenes/Login/template.js" afterPath="$PROJECT_DIR$/src/scenes/Login/template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/store/configureStore.dev.js" afterPath="$PROJECT_DIR$/src/store/configureStore.dev.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.dev.js" afterPath="$PROJECT_DIR$/webpack.config.dev.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -68,48 +84,7 @@
     <favorites_list name="dream-wallet-frontend" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scenes/Login/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scenes/Login/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.config.dev.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webpack.config.dev.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="83" column="44" lean-forward="true" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scenes/Login/LoginForm/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,6 +105,9 @@
       <find>console.l</find>
       <find>console.lo</find>
       <find>console.log</find>
+      <find>h</find>
+      <find>h3</find>
+      <find>f0ecec</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,24 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Shared/Wallet/Header/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Shared/Wallet/Header/style.scss" />
-        <option value="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Shared/Wallet/MenuLeft/style.scss" />
-        <option value="$PROJECT_DIR$/src/components/Login/LoginForm/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/BuyContainer/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Home/components/Home/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Landing/components/Landing/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Login/components/Login/components/LoginForm/style.scss" />
-        <option value="$PROJECT_DIR$/src/containers/Login/components/Login/style.scss" />
-        <option value="$PROJECT_DIR$/src/containers/Login/components/Login/components/LoginForm/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Login/components/Login/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Login/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Buy/components/Buy/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Buy/template.js" />
-        <option value="$PROJECT_DIR$/src/containers/Buy/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Faq/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/Faq/template.js" />
         <option value="$PROJECT_DIR$/src/containers/Home/index.js" />
         <option value="$PROJECT_DIR$/src/containers/Landing/index.js" />
         <option value="$PROJECT_DIR$/src/containers/Login/style.scss" />
@@ -179,16 +139,34 @@
         <option value="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/index.js" />
         <option value="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuLeft/template.js" />
         <option value="$PROJECT_DIR$/src/components/Layouts/WalletLayout/MenuTop/index.js" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/components/Layouts/PublicLayout/Footer/index.js" />
         <option value="$PROJECT_DIR$/src/components/Layouts/WalletLayout/index.js" />
-        <option value="$PROJECT_DIR$/src/scenes/Login/LoginForm/index.js" />
-        <option value="$PROJECT_DIR$/src/scenes/Login/template.js" />
         <option value="$PROJECT_DIR$/src/scenes/app.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Login/LoginForm/index.js" />
         <option value="$PROJECT_DIR$/src/scenes/Login/LoginForm/style.scss" />
-        <option value="$PROJECT_DIR$/src/scenes/Login/style.scss" />
-        <option value="$PROJECT_DIR$/src/scenes/Login/index.js" />
+        <option value="$PROJECT_DIR$/src/assets/sass/utilities/_mixins.scss" />
+        <option value="$PROJECT_DIR$/src/assets/sass/utilities/_flex.scss" />
+        <option value="$PROJECT_DIR$/src/assets/sass/utilities/_global.scss" />
+        <option value="$PROJECT_DIR$/src/index.scss" />
+        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/src/assets/sass/utilities/_fonts.scss" />
+        <option value="$PROJECT_DIR$/src/components/Form/TextBox/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Form/PasswordBox/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/MenuLeftLink/index.js" />
+        <option value="$PROJECT_DIR$/src/assets/sass/utilities/_typography.scss" />
+        <option value="$PROJECT_DIR$/src/assets/sass/utilities/elements.scss" />
+        <option value="$PROJECT_DIR$/src/assets/sass/utilities/_elements.scss" />
+        <option value="$PROJECT_DIR$/src/scenes/Login/template.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Login/style.scss" />
+        <option value="$PROJECT_DIR$/src/components/Layouts/Public/Header/style.scss" />
+        <option value="$PROJECT_DIR$/src/assets/sass/resources/_global.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/scenes/Login/index.js" />
+        <option value="$PROJECT_DIR$/src/data/Auth/reducers.js" />
+        <option value="$PROJECT_DIR$/src/data/Auth/sagas.js" />
+        <option value="$PROJECT_DIR$/src/middleware/authMiddleware.js" />
+        <option value="$PROJECT_DIR$/src/store/configureStore.dev.js" />
       </list>
     </option>
   </component>
@@ -204,7 +182,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -227,6 +205,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -253,188 +232,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scenes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scenes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scenes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LoginForm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Auth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utilities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dream-wallet-frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dream-wallet" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -445,22 +251,21 @@
     <property name="node.js.selected.package.standard" value="C:\BLOCKCHAIN\dream-wallet-frontend\node_modules\standard" />
     <property name="standardjs.codestyle.accepted" value="true" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\assets\fonts" />
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\assets\sass\utilities" />
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\containers\Security" />
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\containers\Register" />
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\containers\Login\components\Login" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\assets\sass\resources" />
       <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Layouts\WalletLayout\MenuTop" />
       <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Layouts\WalletLayout\MenuLeft" />
       <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Layouts\WalletLayout\Header" />
       <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Layouts\PublicLayout\Footer" />
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Layouts\LandingLayout\Header" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\containers\Security" />
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\containers\Register" />
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\containers\Login\components\Login" />
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\containers\Home\components\Home" />
-      <recent name="C:\BLOCKCHAIN\dream-wallet-frontend\src\components\Shared\Form" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -557,11 +362,12 @@
       <workItem from="1495875110164" duration="179000" />
       <workItem from="1495875323402" duration="54043000" />
       <workItem from="1496133812320" duration="24000" />
+      <workItem from="1496343570056" duration="13619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81191000" />
+    <option name="totallyTimeSpent" value="94845000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -573,36 +379,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20337197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2081138" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.35536295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="-9" y="-1080" width="1920" height="1040" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.35536295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="3" y="3" width="1914" height="1034" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2085308" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -663,238 +458,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/containers/Login/components/Login/components/LoginForm/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Login/components/Login/components/LoginForm/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Buy/components/Buy/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Buy/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Faq/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Faq/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Faq/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/BalanceSummary/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Landing/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Landing/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Buy/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Security/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Security/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Security/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Register/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Register/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Register/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Settings/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Settings/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Settings/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Landing/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Transactions/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Landing/Footer/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Layouts/Landing/Footer/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -911,56 +474,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Public/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Layouts/Landing/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/Header/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/Header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding>
             <element signature="e#0#25#0" expanded="false" />
           </folding>
@@ -981,9 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -991,54 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="e#103#128#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Login/LoginForm/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Login/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Public/Footer/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="e#0#25#0" expanded="false" />
           </folding>
@@ -1053,61 +519,296 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/app.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/Header/template.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Login/LoginForm/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Login/LoginForm/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/blockchain-css/sass/utilities/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Public/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/blockchain-css/sass/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="1208" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1224" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Public/Header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Public/Footer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Public/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#98#143#0" expanded="false" />
+            <element signature="e#2086#2111#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Form/TextBox/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Form/TextBox/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Form/PasswordBox/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/utilities/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="65" lean-forward="true" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/MenuLeftLink/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/MenuLeft/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/Header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Wallet/Header/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/utilities/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="23" column="62" lean-forward="true" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layouts/Public/Header/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/resources/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/resources/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/utilities/_elements.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Login/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/Auth/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/Auth/reducers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#88#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/Auth/sagas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="49" column="71" lean-forward="true" selection-start-line="49" selection-start-column="71" selection-end-line="49" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Login/LoginForm/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scenes/Login/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/sass/utilities/_colors.scss">
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/resources/_flex.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/resources/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="9" lean-forward="false" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dream-wallet/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/rootReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/actionTypes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1117,16 +818,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scenes/Login/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/Log/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/Auth/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.dev.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="83" column="44" lean-forward="true" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
+        <state relative-caret-position="221">
+          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/configureStore.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/Auth/sagas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/middleware/authMiddleware.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/Auth/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
