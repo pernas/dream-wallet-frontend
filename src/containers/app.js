@@ -10,7 +10,10 @@ import HomeContainer from 'containers/Home'
 import TransactionsContainer from 'containers/Transactions'
 import BuyContainer from 'containers/Buy'
 import SecurityContainer from 'containers/Security'
-import SettingsContainer from 'containers/Settings'
+import InfoContainer from 'containers/Info'
+import PreferencesContainer from 'containers/Preferences'
+import SecuritySettingsContainer from 'containers/SecuritySettings'
+import AddressesContainer from 'containers/Addresses'
 import FaqContainer from 'containers/Faq'
 
 import { Provider } from 'react-redux'
@@ -25,7 +28,10 @@ class App extends React.Component {
             <WalletLayout path='/transactions' component={TransactionsContainer} />
             <WalletLayout path='/buy-sell' component={BuyContainer} />
             <WalletLayout path='/security-center' component={SecurityContainer} />
-            <WalletLayout path='/settings' component={SettingsContainer} />
+            <WalletLayout path='/settings/info' component={InfoContainer} />
+            <WalletLayout path='/settings/preferences' component={PreferencesContainer} />
+            <WalletLayout path='/settings/security' component={SecuritySettingsContainer} />
+            <WalletLayout path='/settings/addresses' component={AddressesContainer} />
             <WalletLayout path='/faq' component={FaqContainer} />
             <PublicLayout path='/landing' component={LandingContainer} />
             <PublicLayout path='/login' component={LoginContainer} />
