@@ -26,6 +26,13 @@
           border-radius: $radius;
 }
 
+/* CROSS BROWSER - BOX SIZING */
+@mixin box-sizing($args...) {
+  -webkit-box-sizing: $args;
+     -moz-box-sizing: $args;
+          box-sizing: $args;
+}
+
 /* CROSS BROWSER -  TRANSITION */
 @mixin transition($args...) {
   -webkit-transition: $args;

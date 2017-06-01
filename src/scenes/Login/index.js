@@ -5,8 +5,6 @@ import {bindActionCreators} from 'redux'
 import Login from './template.js'
 import * as authActions from 'data/Auth/actions.js'
 
-import styles from './style.scss'
-
 class LoginContainer extends React.Component {
   constructor () {
     super()
@@ -42,7 +40,7 @@ class LoginContainer extends React.Component {
 
   render () {
     return (
-      <Login className={styles.bgBlack} onChange={this.onChange} onClick={this.onClick} />
+      <Login onChange={this.onChange} onClick={this.onClick} />
     )
   }
 }

@@ -5,13 +5,13 @@ import TextBox from 'components/Form/TextBox'
 import PasswordBox from 'components/Form/PasswordBox'
 import Button from 'components/Form/Button'
 
-import './style.scss'
+import style from './style.scss'
 
 const LoginForm = (props) => {
   let mandatory = true
 
   return (
-    <div className='login-form'>
+    <div className={style.loginForm}>
       <h3>Welcome Back!</h3>
       <TextBox
         name='guid'

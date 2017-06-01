@@ -1,10 +1,9 @@
 
-.public {
+.public-layout {
   @include display-flex();
   @include flex-direction(column);
   @include align-content(stretch);
   @include justify-content(space-between);
-
   height: 100%;
   background-color: $bc-blue;
 

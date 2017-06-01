@@ -1,11 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import './style.scss'
+import style from './style.scss'
 
 const Button = (props) => {
   return (
-    <button className='form-control btn btn-default' onClick={props.onClick}>
+    <button className={style.button} onClick={props.onClick}>
       {props.label}
     </button>
   )

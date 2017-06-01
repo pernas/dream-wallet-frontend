@@ -1,9 +1,9 @@
 import React from 'react'
-import './style.scss'
+import style from './style.scss'
 
 const Footer = () => {
   return (
-    <footer className='public'>
+    <footer className={style.footer}>
       <span>Public footer</span>
     </footer>
   )

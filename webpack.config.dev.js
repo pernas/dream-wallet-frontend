@@ -57,13 +57,13 @@ module.exports = {
         use: ExtractTextPlugin.extract({
           use: [
             {
-              loader: 'css-loader' // ,
-              // options: {
-              //   modules: true,
-              //   localIdentName: '[name]__[local]___[hash:base64:5]',
-              //   importLoaders: 2,
-              //   camelCase: true
-              // }
+              loader: 'css-loader',
+              options: {
+                modules: true,
+                localIdentName: '[name]__[local]___[hash:base64:5]',
+                importLoaders: 2,
+                camelCase: true
+              }
             },
             'sass-loader',
             {
