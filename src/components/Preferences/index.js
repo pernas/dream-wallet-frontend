@@ -1,12 +1,12 @@
 import React from 'react'
 import './style.scss'
 
-const Settings = () => {
+const Preferences = () => {
   return (
     <section className='settings'>
-      <span>Settings page</span>
+      <span>Preferences page</span>
     </section>
   )
 }
 
-export default Settings
+export default Preferences

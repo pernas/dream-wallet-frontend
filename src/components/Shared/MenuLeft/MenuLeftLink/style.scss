@@ -31,4 +31,14 @@
     font-size: 13px;
     outline: none !important;
   }
+
+}
+
+.menu-sub {
+  padding-left: 45px;
+  .menu-left-link {
+    padding: 0px;
+    margin-bottom: 8px;
+    text-transform: none;
+  }
 }
