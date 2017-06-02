@@ -6,7 +6,7 @@ import style from './style.scss'
 const MenuLeft = () => {
   return (
     <nav className={style.menuLeft}>
-      <ul>
+      <ul className={style.navigation}>
         <MenuLeftLink route='/wallet' title='Home' />
         <MenuLeftLink route='/transactions' title='Transactions' />
         <MenuLeftLink route='/buy-sell' title='Buy bitcoin' />

@@ -20,7 +20,7 @@ const MenuLeftLink = (props) => {
     <li className={style.menuLeftLink}>
       <NavLink className={style.link} to={props.route} activeClassName={style.linkActive}>
         {renderIcon(props.title)}
-        {props.title}
+        <span>{props.title}</span>
       </NavLink>
     </li>
   )
