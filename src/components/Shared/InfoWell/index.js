@@ -1,8 +1,9 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const InfoWell = ({ children }) => (
-  <div className='info-well type-h5 em-500'>
+  <div className={style.infoWell}>
     {children}
   </div>
 )

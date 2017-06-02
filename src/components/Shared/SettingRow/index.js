@@ -1,16 +1,18 @@
 import React from 'react'
-import './style.scss'
 
-const SettingRow = ({ title, Description, Setting }) => (
-  <div className='setting-row'>
-    <div className='description'>
-      <label className='em-400 type-h5'>{title}</label>
+import style from './style.scss'
+import typography from 'sass/utilities/typography.scss'
+
+const SettingRow = (props) => (
+  <div className={style.settingRow}>
+    <div className={style.description}>
+      <label className={typography.label}>{props.component.title}</label>
       <div>
-        <Description />
+        {props.component.description}
       </div>
     </div>
-    <div className='setting'>
-      <Setting />
+    <div className={style.settings}>
+      {props.component.settings}
     </div>
   </div>
 )
