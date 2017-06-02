@@ -1,10 +1,11 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Footer = () => {
   return (
-    <footer className='landing'>
-      <span>Landing footer</span>
+    <footer className={style.footer}>
+      Landing footer
     </footer>
   )
 }

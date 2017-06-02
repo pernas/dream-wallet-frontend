@@ -1,9 +1,10 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Balance = () => {
   return (
-    <div className='balance'>
+    <div className={style.balance}>
       Balance
     </div>
   )

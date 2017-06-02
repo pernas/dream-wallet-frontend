@@ -1,22 +1,22 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
 
-import './style.scss'
-
 import Header from './Header'
 import Footer from './Footer'
+
+import style from './style.scss'
 
 const LandingLayout = ({component: Component, ...rest}) => {
   return (
     <Route {...rest} render={matchProps => (
-      <div className='landing'>
-        <div className='header'>
+      <div className={style.landing}>
+        <div className={style.header}>
           <Header />
         </div>
-        <div className='content'>
+        <div className={style.content}>
           <Component {...matchProps} />
         </div>
-        <div className='footer'>
+        <div className={style.footer}>
           <Footer />
         </div>
       </div>

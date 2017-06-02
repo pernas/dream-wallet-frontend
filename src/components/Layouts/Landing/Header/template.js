@@ -1,10 +1,11 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Header = () => {
   return (
-    <header className='landing'>
-      <span>Landing header</span>
+    <header className={style.header}>
+      Landing header
     </header>
   )
 }

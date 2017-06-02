@@ -1,9 +1,10 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const ClipboardNextAddress = () => {
   return (
-    <div className='clipboard-next-address'>
+    <div className={style.clipboardNextAddress}>
       Clipboard Next Address
     </div>
   )

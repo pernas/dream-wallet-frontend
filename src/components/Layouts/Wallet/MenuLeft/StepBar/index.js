@@ -1,9 +1,10 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const StepBar = () => {
   return (
-    <div className='step-bar'>StepBar</div>
+    <div className={style.stepBar}>StepBar</div>
   )
 }
 

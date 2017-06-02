@@ -1,16 +1,15 @@
 import React from 'react'
 
-
 import Main from './Main'
 import NewToBitcoin from './NewToBitcoin'
 import Reviews from './Reviews'
 import WhyUseBlockchain from './WhyUseBlockchain'
 
-import './style.scss'
+import style from './style.scss'
 
 const Landing = () => {
   return (
-    <section className='landing'>
+    <section className={style.landing}>
       <Main />
       <NewToBitcoin />
       <Reviews />

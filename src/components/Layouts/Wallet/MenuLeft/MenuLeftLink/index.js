@@ -2,7 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 
 import style from './style.scss'
-import fonts from 'sass/utilities/_fonts.scss'
+import fonts from 'sass/utilities/fonts.scss'
 
 function renderIcon (title) {
   switch (title) {

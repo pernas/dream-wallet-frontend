@@ -1,9 +1,10 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Adverts = () => {
   return (
-    <div className='adverts'>Adverts</div>
+    <div className={style.adverts}>Adverts</div>
   )
 }
 

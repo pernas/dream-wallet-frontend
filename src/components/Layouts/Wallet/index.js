@@ -1,10 +1,11 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
 
-import style from './style.scss'
 import Header from './Header'
 import MenuLeft from './MenuLeft'
 import MenuTop from './MenuTop'
+
+import style from './style.scss'
 
 const WalletLayout = ({component: Component, ...rest}) => {
   return (

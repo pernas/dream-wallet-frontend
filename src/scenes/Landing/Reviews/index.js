@@ -1,10 +1,11 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Reviews = () => {
   return (
-    <section className='reviews'>
-      <span>Reviews section</span>
+    <section className={style.reviews}>
+      Reviews section
     </section>
   )
 }

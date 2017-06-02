@@ -1,10 +1,11 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const WhyUseBlockchain = () => {
   return (
-    <section className='why-use-blockchain'>
-      <span>Main section</span>
+    <section className={style.whyUseBlockchain}>
+      Main section
     </section>
   )
 }

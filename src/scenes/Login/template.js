@@ -1,45 +1,38 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 
-import TextBox from 'components/Form/TextBox'
-import PasswordBox from 'components/Form/PasswordBox'
-import Button from 'components/Form/Button'
-
+import button from 'sass/elements/button.scss'
+import link from 'sass/elements/link.scss'
+import textbox from 'sass/elements/textbox.scss'
+import typography from 'sass/utilities/typography.scss'
 import style from './style.scss'
 
 const Login = (props) => {
   return (
     <section className={style.login}>
       <div className={style.header}>
-        <h3>Welcome Back!</h3>
-        <div className={style.inline}>
-          <h5>or</h5>
-          <NavLink to='/register'>Sign Up</NavLink>
+        <span className={typography.h3}>Welcome Back!</span>
+        <div>
+          <span className={typography.h5}>or</span>
+          <NavLink className={link.default} to='/register'>Sign Up</NavLink>
         </div>
       </div>
-      <h4>Sign in to your wallet below</h4>
+      <span className={typography.h4}>Sign in to your wallet below</span>
       <div className={style.separator} />
-      <TextBox
-        name='guid'
-        label='Wallet ID'
-        onChange={props.onChange} />
-      <h5>
+      <span className={typography.label}>Wallet ID</span>
+      <input className={textbox.default} type='text' name='guid' onChange={props.onChange} />
+      <span className={typography.h5}>
         Find the login link in your email, e.g.
         <i>blockchain.info/wallet/1111-222-333...</i>
         The series of numbers and dashes at the end of the link is your Wallet ID.
-      </h5>
-      <PasswordBox
-        name='password'
-        label='Password'
-        onChange={props.onChange} />
-      <Button
-        name='submit'
-        label='Log in'
-        onClick={props.onClick} />
+      </span>
+      <span className={typography.label}>Password</span>
+      <input className={textbox.default} type='password' name='password' onChange={props.onChange} />
+      <button className={button.primary} name='submit' onClick={props.onClick}>LOG IN</button>
       <div className={style.footer}>
-        <div className={style.inline}>
-          <h4>Having some trouble?</h4>
-          <NavLink to='/login-help'>View Options</NavLink>
+        <div>
+          <span className={typography.h4}>Having some trouble?</span>
+          <NavLink className={link.default} to='/login-help'>View Options</NavLink>
         </div>
       </div>
     </section>

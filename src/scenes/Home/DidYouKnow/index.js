@@ -1,10 +1,11 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const DidYouKnow = () => {
   return (
-    <div className='did-you-know'>
-      <h5>Did You Know?</h5>
+    <div className={style.didYouKnow}>
+      Did You Know?
     </div>
   )
 }

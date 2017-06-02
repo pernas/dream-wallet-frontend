@@ -2,7 +2,6 @@
 .link {
   @include display-flex();
   @include align-items(center);
-  @include header-link();
 }
 
 .dropdown {

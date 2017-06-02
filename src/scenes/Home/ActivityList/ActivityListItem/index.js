@@ -1,13 +1,14 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const ActivityListItem = (props) => {
   return (
-    <li className='activity-list-item'>
-      <div className='box'>
-        <h5>{props.activity.title}</h5>
-        <span>{props.activity.time}</span>
-        <span>{props.activity.description}</span>
+    <li className={style.activityListItem}>
+      <div className={style.box}>
+        {props.activity.title}
+        {props.activity.time}
+        {props.activity.description}
       </div>
     </li>
   )

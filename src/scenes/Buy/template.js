@@ -1,9 +1,10 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Buy = () => {
   return (
-    <section className='buy'>
+    <section className={style.buy}>
       <span>Buy bitcoin page</span>
     </section>
   )

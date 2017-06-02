@@ -6,17 +6,17 @@
   @include justify-content(space-between);
   height: 100%;
   background-color: $bc-blue;
+}
 
-  & .header {
-    @include flex(0 0 80px);
-  }
+.header {
+  @include flex(0 0 80px);
+}
 
-  & .content {
-    @include display-flex();
-    @include justify-content(center);
-  }
+.content {
+  @include display-flex();
+  @include justify-content(center);
+}
 
-  & .footer {
-    @include flex(0 0 80px);
-  }
+.footer {
+  @include flex(0 0 80px);
 }

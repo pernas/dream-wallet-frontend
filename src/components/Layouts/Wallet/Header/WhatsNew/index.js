@@ -1,9 +1,10 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const WhatsNew = () => {
   return (
-    <div className='whats-new'>Whats New</div>
+    <div className={style.whatsNew}>Whats New</div>
   )
 }
 

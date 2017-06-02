@@ -1,9 +1,10 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Ticker = () => {
   return (
-    <div className='ticker'>Ticker</div>
+    <div className={style.ticker}>Ticker</div>
   )
 }
 

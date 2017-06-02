@@ -1,12 +1,13 @@
 import React from 'react'
-import './style.scss'
 
 import ActivityListItem from './ActivityListItem'
 
+import style from './style.scss'
+
 const ActivityList = (props) => {
   return (
-    <div className='activity-list'>
-      <h5>Most Recent Activity</h5>
+    <div className={style.activityList}>
+      Most Recent Activity
       <ul>
         {props.activities.map(function (activity, key) {
           return <ActivityListItem activity={activity} key={key} />

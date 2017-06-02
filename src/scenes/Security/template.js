@@ -1,9 +1,10 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Security = () => {
   return (
-    <section className='security'>
+    <section className={style.security}>
       <span>Security center page</span>
     </section>
   )

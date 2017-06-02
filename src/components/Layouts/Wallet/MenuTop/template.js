@@ -1,11 +1,12 @@
 import React from 'react'
 
 import style from './style.scss'
+import typography from 'sass/utilities/typography.scss'
 
 const MenuTop = () => {
   return (
     <div className={style.menuTop}>
-      <h3>Be your own bank.<h5>®</h5></h3>
+      <span className={typography.h2}>Be your own bank.</span>
     </div>
   )
 }

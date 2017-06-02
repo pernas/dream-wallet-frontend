@@ -9,30 +9,22 @@
   max-height: 600px;
   @include box-shadow(0 0 20px -8px black);
   background-color: #FFFFFF;
+}
 
-  & .header {
-    @include display-flex();
-    @include flex-direction(row);
-    @include justify-content(space-between);
+.header {
+  @include display-flex();
+  @include flex-direction(row);
+  @include justify-content(space-between);
+}
 
-    & .inline > * {
-      display: inline-block;
-    }
-  }
+.separator {
+  border-bottom: 1px solid #F0ECEC;
+  margin: 10px 0 20px 0;
+}
 
-  & .separator {
-    border-bottom: 1px solid #F0ECEC;
-    margin: 10px 0 20px 0;
-  }
-
-  & .footer {
-    padding: 10px 0;
-    @include display-flex();
-    @include flex-direction(row);
-    @include justify-content(flex-end);
-
-    & .inline > * {
-      display: inline-block;
-    }
-  }
+.footer {
+  padding: 10px 0;
+  @include display-flex();
+  @include flex-direction(row);
+  @include justify-content(flex-end);
 }

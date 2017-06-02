@@ -1,10 +1,11 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Register = () => {
   return (
-    <section className='register'>
-      <span>Register page</span>
+    <section className={style.register}>
+      Register page
     </section>
   )
 }

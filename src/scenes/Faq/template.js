@@ -1,10 +1,10 @@
 import React from 'react'
 
-import './style.scss'
+import style from './style.scss'
 
 const Faq = () => {
   return (
-    <section className='faq'>
+    <section className={style.faq}>
       <span>FAQ page</span>
     </section>
   )

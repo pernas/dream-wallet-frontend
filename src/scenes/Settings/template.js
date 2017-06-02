@@ -1,10 +1,11 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const Settings = () => {
   return (
-    <section className='settings'>
-      <span>Settings page</span>
+    <section className={style.settings}>
+      Settings page
     </section>
   )
 }

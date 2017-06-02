@@ -2,6 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 
 import ExploreMenu from './ExploreMenu'
+
 import logo from 'img/blockchain-vector.svg'
 import style from './style.scss'
 
