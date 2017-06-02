@@ -35,6 +35,12 @@
   -webkit-align-content: $args;
   align-content: $args;
 }
+
+@mixin align-items($args...) {
+  -webkit-align-items: $args;
+  align-items: $args;
+}
+
 @mixin justify-content($args...) {
   -webkit-justify-content: $args;
   justify-content: $args;
