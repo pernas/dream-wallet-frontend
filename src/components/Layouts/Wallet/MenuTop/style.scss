@@ -1,5 +1,10 @@
 
 .menu-top {
+  @include display-flex();
+  @include flex-direction(row);
+  @include justify-content(space-between);
+  @include align-items(center);
+  @include box-sizing(border-box);
   width: 100%;
   height: 115px;
   padding: 20px;

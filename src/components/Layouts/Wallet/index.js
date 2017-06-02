@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
-import './style.scss'
 
+import style from './style.scss'
 import Header from './Header'
 import MenuLeft from './MenuLeft'
 import MenuTop from './MenuTop'
@@ -9,19 +9,19 @@ import MenuTop from './MenuTop'
 const WalletLayout = ({component: Component, ...rest}) => {
   return (
     <Route {...rest} render={matchProps => (
-      <div className='wallet'>
-        <div className='header'>
+      <div className={style.wallet}>
+        <div className={style.header}>
           <Header />
         </div>
-        <div className='content'>
-          <div className='left'>
+        <div className={style.content}>
+          <div className={style.left}>
             <MenuLeft />
           </div>
-          <div className='right'>
-            <div className='top'>
+          <div className={style.right}>
+            <div className={style.top}>
               <MenuTop />
             </div>
-            <div className='page'>
+            <div className={style.page}>
               <Component {...matchProps} />
             </div>
           </div>

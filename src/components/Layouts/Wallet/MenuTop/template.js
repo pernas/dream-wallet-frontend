@@ -1,11 +1,11 @@
 import React from 'react'
-import './style.scss'
+
+import style from './style.scss'
 
 const MenuTop = () => {
   return (
-    <div className='menu-top'>
-      <span>Be your own bank.</span>
-      <span>®</span>
+    <div className={style.menuTop}>
+      <h3>Be your own bank.<h5>®</h5></h3>
     </div>
   )
 }

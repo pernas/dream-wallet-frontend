@@ -1,13 +1,18 @@
 
-nav.menu-left {
-  flex: 0 0 270px;
+.menu-left {
+  @include display-flex();
+  @include flex-direction(column);
+  @include justify-content(space-between);
+  @include align-items(center);
+  @include box-sizing(border-box);
   padding: 15px;
-  width: 100%;
+  width: 270px;
   min-height: 100%;
   background-color: $grey;
   border-right: 1px solid $border-grey;
 
   & ul {
+
     list-style:none;
     padding: 0;
   }

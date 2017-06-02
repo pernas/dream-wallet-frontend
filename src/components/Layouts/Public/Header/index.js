@@ -7,11 +7,9 @@ import style from './style.scss'
 const Header = () => {
   return (
     <header className={style.header}>
-      <div className='container'>
-        <NavLink to='/'>
-          <img src={logo} />
-        </NavLink>
-      </div>
+      <NavLink to='/'>
+        <img src={logo} className={style.logo} />
+      </NavLink>
     </header>
   )
 }
